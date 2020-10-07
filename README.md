@@ -6,4 +6,5 @@
 <img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></img>
 
 ![@visitor](https://visitor-badge.glitch.me/badge?page_id=xhemj.xhemj)
-[![@xhemj](https://flat.badgen.net/badge/@/xhemj/green?icon=github)](https://github.com/xhemj)
+[![@xhemj](https://img.shields.io/badge/-xhemj-black?style=flat-square&logo=github)](https://github.com/xhemj)
+![@stars](https://img.shields.io/github/stars/xhemj?style=flat-square)
