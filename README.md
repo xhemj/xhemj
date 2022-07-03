@@ -4,13 +4,13 @@
 
 # xhemj
 
-<p align='center'>
+<p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=xhemj&theme=minimal" width="500" />
 </p>
 
-**<div align="center">一个普普通通的高中音乐生。</div>**
+**<p align="center">一个普普通通的高中音乐生。</p>**
 
-**<div align="right">个人非常喜欢的一张图片</div>**
+**<p align="right">个人非常喜欢的一张图片</p>**
 
 [<img align="right" width="50%" src="bg.png" />](https://xhemj.com/about/?source=github.com)
 
